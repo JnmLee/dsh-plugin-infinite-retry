@@ -1,0 +1,3 @@
+- insert:
+    - id: infinite-retry
+      name: 'dsh-plugin-infinite-retry'

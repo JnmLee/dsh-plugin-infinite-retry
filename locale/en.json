@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Infinite Retry",
+    "description": "Retry failed model requests indefinitely, including subagent requests."
+  }
+}
